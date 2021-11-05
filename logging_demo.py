@@ -67,7 +67,7 @@ def my_config():
     """
     FORMAT = '%(asctime)s %(name)s %(levelname)s: %(message)s'
     logging.basicConfig(format=FORMAT, level=logging.WARN,
-                        filename="data.log", filemode="w")
+                        filename="logging_data.log", filemode="w")
 
 
 if __name__ == "__main__":

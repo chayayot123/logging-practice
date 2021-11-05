@@ -1,0 +1,8 @@
+2021-11-05 16:06:07,738 root WARNING: Invalid user!
+2021-11-05 16:06:07,738 root Level 35: Account doesn't exist!
+2021-11-05 16:06:07,739 root ERROR: Error 404!
+2021-11-05 16:06:07,739 root CRITICAL: Critical error!
+2021-11-05 16:06:07,739 root WARNING: Invalid user!
+2021-11-05 16:06:07,739 foo Level 35: Account doesn't exist!
+2021-11-05 16:06:07,739 root ERROR: Error 404!
+2021-11-05 16:06:07,739 root CRITICAL: Critical error!
